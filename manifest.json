@@ -1,0 +1,25 @@
+{
+  "name": "Daybook Max",
+  "short_name": "Daybook",
+  "description": "Professional Daily Financial Management Suite",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20rx=%2280%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%22120%22%20y=%2280%22%20width=%22272%22%20height=%22352%22%20rx=%2220%22%20fill=%22%2523334155%22/%3E%3Crect%20x=%22148%22%20y=%2260%22%20width=%22216%22%20height=%22332%22%20rx=%2216%22%20fill=%22%2523f8fafc%22/%3E%3Crect%20x=%22172%22%20y=%22110%22%20width=%22168%22%20height=%2216%22%20rx=%228%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%22172%22%20y=%22146%22%20width=%22140%22%20height=%2212%22%20rx=%226%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%22172%22%20y=%22174%22%20width=%22120%22%20height=%2212%22%20rx=%226%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%22172%22%20y=%22210%22%20width=%22168%22%20height=%2216%22%20rx=%228%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%22172%22%20y=%22246%22%20width=%22100%22%20height=%2212%22%20rx=%226%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%22172%22%20y=%22274%22%20width=%22130%22%20height=%2212%22%20rx=%226%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%22148%22%20y=%22310%22%20width=%22216%22%20height=%2260%22%20rx=%2210%22%20fill=%22%2523f59e0b%22/%3E%3Ctext%20x=%22256%22%20y=%22350%22%20font-size=%2228%22%20font-weight=%22bold%22%20text-anchor=%22middle%22%20fill=%22%25231e293b%22%20font-family=%22Arial%22%3EDAYBOOK%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20192%20192%22%3E%3Crect%20width=%22192%22%20height=%22192%22%20rx=%2230%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%2244%22%20y=%2228%22%20width=%22104%22%20height=%22136%22%20rx=%228%22%20fill=%22%2523f8fafc%22/%3E%3Crect%20x=%2256%22%20y=%2242%22%20width=%2280%22%20height=%228%22%20rx=%224%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%2256%22%20y=%2258%22%20width=%2260%22%20height=%226%22%20rx=%223%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%2256%22%20y=%2272%22%20width=%2270%22%20height=%226%22%20rx=%223%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%2256%22%20y=%2288%22%20width=%2280%22%20height=%228%22%20rx=%224%22%20fill=%22%25231e293b%22/%3E%3Crect%20x=%2256%22%20y=%22104%22%20width=%2250%22%20height=%226%22%20rx=%223%22%20fill=%22%252394a3b8%22/%3E%3Crect%20x=%2244%22%20y=%22120%22%20width=%22104%22%20height=%2232%22%20rx=%226%22%20fill=%22%2523f59e0b%22/%3E%3Ctext%20x=%2296%22%20y=%22141%22%20font-size=%2213%22%20font-weight=%22bold%22%20text-anchor=%22middle%22%20fill=%22%25231e293b%22%20font-family=%22Arial%22%3EDAYBOOK%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
